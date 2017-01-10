@@ -20,6 +20,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Package Managers
+yarn.lock
 yarn-error.log
 npm-debug.log
 
